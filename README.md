@@ -2,7 +2,7 @@
 
 [сертификат](https://gb.ru/certificates/917740) о прохождени курса
 
-Здесь собраны все учебные задания про программе курса
+Здесь собраны все материалы с лекций и учебные задания про программе курса
 
 ### [Урок 1](https://github.com/kornilovaap/Software_development_process/tree/main/Lesson_1)
 1.[ Чем команда отличается от группы и какие стадии развития она проходит.](https://github.com/kornilovaap/Software_development_process/blob/main/Lesson_1/%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0.md)           
